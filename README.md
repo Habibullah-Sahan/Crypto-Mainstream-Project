@@ -2,10 +2,10 @@
 
 This post can be regarded as the Genesis Block of Crypto Mainstream Project. This post will describe the vision of this project and what we want to do further down the line. This project needs investments to get started!
 
-The Problem
+<h2>The Problem</h2>
 
 There is plenty of educational material about Crypto-related topics. But it’s fragmented and the jargons used by the Devs and Advanced Users are not easy for the newcomers. As a result, the average Joe pivots back to the traditional economy when they come across content that does not make sense to them.
-Besides, the wave of DeFi in form of Crypto Farms, the Crypto Farms that pop up everywhere have become alarmingly dangerous grounds to lose fortunes. The same Dev uses anonymous names and cheats the average guy, in the same way, multiple types.
+Besides, the wave of DeFi in form of Crypto Farms, the Crypto Farms that pop up everywhere have become alarmingly dangerous grounds to lose fortunes. The same Dev uses anonymous names and cheats the average guy, in the same way, multiple times.
 
 NFTs also have shown how they can revive the faculty of Arts. But a dangerous hype has grown around it where people can lose fortunes buying useless stuff that has little to no value. There is little to no content describing these factors in an easy-to-understand language.
 
