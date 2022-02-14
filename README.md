@@ -1,6 +1,6 @@
 # Crypto-Mainstream-Project
 
-This post can be regarded as the Genesis Block of Crypto Mainstream Project. This post will describe the vision of this project and what we want to do further down the line. Since this is a Not-For-Profit initiative, to begin with, it will rely on Grants and serve the Crypto Community.
+This post can be regarded as the Genesis Block of Crypto Mainstream Project. This post will describe the vision of this project and what we want to do further down the line. This project needs investments to get started!
 
 The Problem
 
