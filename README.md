@@ -18,16 +18,25 @@ The Solution (Crypto Mainstream Project)
 Crypto Mainstream Project will aim at building a completely Crypto focused economy where all the transactions will take place in Crypto only.
 e.g. There are web hosting websites available that take payments via MasterCard, Visa, Paypal, and many others. But if we launch a web hosting company we will accept crypto payments only.
 
-We will push ethical, real-world Crypto use and ensure wider mainstream adoption of Crypto as a form of payment. To achieve this we will:
-- Open a No-BS Educational Website covering Crypto and Blockchain in easy-to-understand language for the mass
-- Launch Web 3.0 version of every Web 2.0 established websites
-- Launch an interoperable Blockchain
-- Create a new Currency and give back to the wallets that help us get the project off the ground
+We will push ethical, real-world Crypto use and ensure wider mainstream adoption of Crypto as a form of payment. 
+
+I’m pledging $5,000 to help me launch this project. Leave a comment if you want to contribute. The initial pledge is for launching an educational platform (website) and build a community around it.
+
+Further down the line we aim to:
+- Launch Web 3.0 version of every Web 2.0 established website (This is a long term vision)
+- Utilize the power of established Blockchains and Bridges
+- After the successful launch of the educational website, the plan is to launch a Decentralized Freelance Marketplace. Something similar to UpWork but payments will be processed via Crypto only (The native token is yet to be decided and the pledge doesn't include development for this project.)
 
 What do we need to make it happen?
 
-To begin with, we will focus on grants. At this moment it’s a one-man team. We will add more team members when we have enough funds. To ensure, I can dedicate full-time to this cause I will require 2 ETH per month salary which I will deduct from the core trusty account. All the transactions will be available via Blockchain and we will keep a public record of where we use every single bit of the grant. If we hire full-time members in the future, they will also receive the same amount of salary per month.
+To begin with, we will focus on grants. At this moment it’s a one-man team. We will add more team members when we have enough funds. Initially, I had pitched this to a couple of investors who told me to look for grants and launch the project first and then check in with them.
+
+<h3>My Pledge</h3>
+
+My pledge is only $5,000 to cover the costs of launching the website and keep working on it for 3 months.
 
 Send your grants via Ethereum Mainnet to wallet address: 0x1B309941ECee9fbeeabd0309eEc22A55c2b2F9b0
 
 If you want to send grants via other chains, contact at mail@sahan.pro before sending it.
+
+Willing to do KYC and I truly want to launch this project and give back to the community.
