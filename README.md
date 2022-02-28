@@ -13,7 +13,7 @@ But the biggest problem is there are fewer talks about Blockchain. The time has 
 
 Platforms like Gitcoin, projects like Coin Market Cap, and exchanges like Binance are playing an admirable role in making Crypto move forward. But it’s not enough. There is a huge gap that can be filled by a project like Crypto Mainstream Project.
 
-The Solution (Crypto Mainstream Project)
+<h2>The Solution (Crypto Mainstream Project)</h2>
 
 Crypto Mainstream Project will aim at building a completely Crypto focused economy where all the transactions will take place in Crypto only.
 e.g. There are web hosting websites available that take payments via MasterCard, Visa, Paypal, and many others. But if we launch a web hosting company we will accept crypto payments only.
